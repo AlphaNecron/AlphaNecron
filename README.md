@@ -1,5 +1,5 @@
 ```javascript
-const me = {
+const info = {
 	fullName: 'Nguyen Thanh Quang',
 	nickname: 'AlphaNecron',
 	age: 14,
