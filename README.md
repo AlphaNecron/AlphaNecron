@@ -5,7 +5,7 @@ const info = {
 	age: 14,
 	gender: 'male',
 	occupation: 'secondary school student',
-	skills: ['english', 'csharp', 'css', 'js', 'bash', 'git', 'prisma', 'reactjs', 'nextjs', 'nodejs'],
+	interested_in: ['csharp', 'javascript', 'typescript', 'linux', 'golang', 'cpp', 'python', 'prisma', 'reactjs', 'nextjs', 'nodejs'],
 	email: 'admin@xwork.space'
 };
 ```
