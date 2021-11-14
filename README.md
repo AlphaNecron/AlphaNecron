@@ -7,7 +7,7 @@ const info = {
 	occupation: 'secondary school student',
 	location: 'somewhere in the countryside of Ha Tinh, Vietnam',
 	interested_in: ['csharp', 'javascript', 'typescript', 'linux', 'golang', 'cpp', 'python', 'prisma', 'reactjs', 'nextjs', 'nodejs'],
-	email: 'admin@xwork.space'
+	email: 'work@xwork.space'
 };
 ```
 
