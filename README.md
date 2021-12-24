@@ -2,7 +2,7 @@
 const info = {
 	fullName: 'Nguyen Thanh Quang',
 	nickname: 'AlphaNecron',
-	age: 14,
+	age: 15,
 	gender: 'male',
 	occupation: 'secondary school student',
 	location: 'somewhere in the countryside of Ha Tinh, Vietnam',
