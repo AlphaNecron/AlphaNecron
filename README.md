@@ -5,7 +5,7 @@ const info = {
 	age: 15,
 	gender: 'male',
 	occupation: 'secondary school student',
-	location: 'somewhere in the countryside of Ha Tinh, Vietnam',
+	location: 'nowhere',
 	interested_in: ['csharp', 'javascript', 'typescript', 'linux', 'golang', 'cpp', 'python', 'prisma', 'reactjs', 'nextjs', 'nodejs'],
 	email: 'work@xwork.space'
 };
