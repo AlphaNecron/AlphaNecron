@@ -36,7 +36,7 @@ const info = {
 [![Gentoo](https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white "Gentoo")](https://www.gentoo.org/)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=microsoft&logoColor=white "Windows 11")](https://windows.com)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white "Android")](https://www.android.com/)
-[![MacOS](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=macos&logoColor=white "MacOS")](https://www.apple.com)
+[![MacOS](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white "MacOS")](https://www.apple.com)
 
 ## Devices 📱
 [![Acer Aspire F5 571](https://img.shields.io/badge/Aspire_F5_571-83B81A?style=for-the-badge&logo=arch-linux&logoColor=white "Aspire F5 571")](https://www.acer.com/)
