@@ -74,7 +74,7 @@ const info = {
 [![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white "NodeJS")](https://nodejs.org)
 [![Chakra](https://img.shields.io/badge/Chakra-319795?style=for-the-badge&logo=chakra%20ui&logoColor=white "Chakra")](https://chakra-ui.com)
 
-### Database
+### Database 🗄️
 [![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white "Prisma")](https://www.prisma.io)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white "PostgreSQL")](https://www.postgresql.org)
 	
@@ -84,4 +84,8 @@ const info = {
 [![lightdm-gab-nord](https://github-readme-stats.vercel.app/api/pin/?username=AlphaNecron&repo=lightdm-gab-nord&hide_border=true&title_color=5865f2&icon_color=57f287&text_color=ffffff&bg_color=23272a)](https://github.com/AlphaNecron/lightdm-gab-nord)
 [![Kutt.NET](https://github-readme-stats.vercel.app/api/pin/?username=AlphaNecron&repo=KUTT.NET&hide_border=true&title_color=5865f2&icon_color=57f287&text_color=ffffff&bg_color=23272a)](https://github.com/AlphaNecron/Kutt.NET)
 [![TitlebarZ](https://github-readme-stats.vercel.app/api/pin/?username=AlphaNecron&repo=TitlebarZ&hide_border=true&title_color=5865f2&icon_color=57f287&text_color=ffffff&bg_color=23272a)](https://github.com/AlphaNecron/TitlebarZ)
+	
+### Gaming 🎮
+[![Wynncraft](https://www.wynndata.tk/gen/stats/OishiSnackTomCay.png)](https://www.wynndata.tk/stats/player/OishiSnackTomCay)  
+[![Hypixel](https://hypixel.paniek.de/signature/52fd9dc846b84eb581909d0aecf761af/general-small)](https://plancke.io/hypixel/player/stats/OishiSnackTomCay)
 </details>
