@@ -14,14 +14,11 @@ const info = {
 <details>
   <summary>More</summary>
 	
-## Stats 📈
-[![Stats](https://github-readme-stats.vercel.app/api?username=AlphaNecron&show_icons=true&hide_border=true&title_color=5865f2&icon_color=57f287&text_color=ffffff&bg_color=23272a&count_private=true "GitHub stats")](#)  
+## GitHub 🖥️
+[![Stats](/metrics.classic.svg "GitHub stats")](#)  
 
 ## Streak 🔥
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlphaNecron&hide_border=true&background=23272A&ring=5865F2&fire=ED4245&dates=FEE75C&currStreakLabel=ED4245&sideNums=5865F2&currStreakNum=57F287&sideLabels=FFFFFF&stroke=FFFFFF)](#)
-
-## Most used languages 🌐
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaNecron&title_color=5865f2&icon_color=57f287&text_color=ffffff&bg_color=23272a&hide_border=true&layout=compact)](#)
 
 ## Trophies 🏆
 [![Trophies](https://github-profile-trophy.vercel.app/?username=AlphaNecron&margin-w=10&theme=discord&no-frame=true)](#)
@@ -29,7 +26,6 @@ const info = {
 ## Links 🔗
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white "Discord")](https://discord.com/users/534752817534074880)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white "Facebook")](https://facebook.com/AlphaNecron)
-[![Homepage](https://img.shields.io/badge/Homepage-41BDF5?style=for-the-badge&logo=page&logoColor=white "Homepage")](https://xwork.space)
 
 ## Operating systems 💻
 [![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white "Arch Linux")](https://archlinux.org/)
@@ -54,11 +50,7 @@ const info = {
 [![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white "Android Studio")](https://developer.android.com/studio)
 [![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=Sublime%20Text&logoColor=white "Sublime Text")](https://www.sublimetext.com)
 
-### Browsers
-[![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=microsoft%20edge&logoColor=white "Microsoft Edge")](https://www.microsoft.com/edge)
-[![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefox%20browser&logoColor=white "Mozilla Firefox")](https://www.mozilla.org/firefox)
-
-### Dev tools
+### Dev tools 💻
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white "Git")](https://git-scm.com)
 [![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft%20azure&logoColor=white "Azure")](https://azure.microsoft.com)
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white "Cloudflare")](https://www.cloudflare.com)
@@ -85,7 +77,6 @@ const info = {
 [![Kutt.NET](https://github-readme-stats.vercel.app/api/pin/?username=AlphaNecron&repo=KUTT.NET&hide_border=true&title_color=5865f2&icon_color=57f287&text_color=ffffff&bg_color=23272a)](https://github.com/AlphaNecron/Kutt.NET)
 [![TitlebarZ](https://github-readme-stats.vercel.app/api/pin/?username=AlphaNecron&repo=TitlebarZ&hide_border=true&title_color=5865f2&icon_color=57f287&text_color=ffffff&bg_color=23272a)](https://github.com/AlphaNecron/TitlebarZ)
 	
-## Gaming 🎮
-[![Wynncraft](https://www.wynndata.tk/gen/stats/OishiSnackTomCay.png)](https://www.wynndata.tk/stats/player/OishiSnackTomCay)  
-[![Hypixel](https://hypixel.paniek.de/signature/52fd9dc846b84eb581909d0aecf761af/general-small)](https://plancke.io/hypixel/player/stats/OishiSnackTomCay)
+## Website 🌐
+[![Website](/metrics.website.svg "Website")](https://xwork.space)
 </details>
