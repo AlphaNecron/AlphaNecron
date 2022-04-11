@@ -1,6 +1,6 @@
 name: Metrics
 on:
-  schedule: [{cron: "*/15 * * * *"}]
+  schedule: [{cron: "0 */2 * * *"}]
   workflow_dispatch:
   push: {branches: ["master", "main"]}
 jobs:
@@ -24,3 +24,13 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, repositories
           plugin_lines: yes
+      - name: Activities
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.activity.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 0
+          plugin_activity_filter: all
