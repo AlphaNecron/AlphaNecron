@@ -16,6 +16,9 @@ const info = {
 	
 ## GitHub 🖥️
 [![Stats](/metrics.classic.svg "GitHub stats")](#)  
+	
+## Recent activities
+[![Activies](/metrics.activity.svg "GitHub activities")](#)
 
 ## Streak 🔥
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlphaNecron&hide_border=true&background=23272A&ring=5865F2&fire=ED4245&dates=FEE75C&currStreakLabel=ED4245&sideNums=5865F2&currStreakNum=57F287&sideLabels=FFFFFF&stroke=FFFFFF)](#)
