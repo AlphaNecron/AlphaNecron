@@ -73,10 +73,10 @@ const info = {
 [![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white "Prisma")](https://www.prisma.io)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white "PostgreSQL")](https://www.postgresql.org)
 	
-## Featured repositories 🌟
+## Effortful repositories 🌟
 [![Void](https://github-readme-stats.vercel.app/api/pin/?username=AlphaNecron&repo=Void&hide_border=true&title_color=5865f2&icon_color=57f287&text_color=ffffff&bg_color=23272a)](https://github.com/AlphaNecron/Void)
 [![GKutt](https://github-readme-stats.vercel.app/api/pin/?username=AlphaNecron&repo=GKutt&hide_border=true&title_color=5865f2&icon_color=57f287&text_color=ffffff&bg_color=23272a)](https://github.com/AlphaNecron/GKutt)
-[![lightdm-gab-nord](https://github-readme-stats.vercel.app/api/pin/?username=AlphaNecron&repo=lightdm-gab-nord&hide_border=true&title_color=5865f2&icon_color=57f287&text_color=ffffff&bg_color=23272a)](https://github.com/AlphaNecron/lightdm-gab-nord)
+[![lightdm-evo](https://github-readme-stats.vercel.app/api/pin/?username=AlphaNecron&repo=lightdm-evo&hide_border=true&title_color=5865f2&icon_color=57f287&text_color=ffffff&bg_color=23272a)](https://github.com/AlphaNecron/lightdm-evo)
 [![Kutt.NET](https://github-readme-stats.vercel.app/api/pin/?username=AlphaNecron&repo=KUTT.NET&hide_border=true&title_color=5865f2&icon_color=57f287&text_color=ffffff&bg_color=23272a)](https://github.com/AlphaNecron/Kutt.NET)
 [![TitlebarZ](https://github-readme-stats.vercel.app/api/pin/?username=AlphaNecron&repo=TitlebarZ&hide_border=true&title_color=5865f2&icon_color=57f287&text_color=ffffff&bg_color=23272a)](https://github.com/AlphaNecron/TitlebarZ)
 	
