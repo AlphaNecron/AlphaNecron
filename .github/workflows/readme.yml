@@ -32,6 +32,7 @@ jobs:
           base: ""
           plugin_activity: yes
           plugin_activity_skipped: AlphaNecron/AlphaNecron, AlphaNecron
+          repositories_skipped: AlphaNecron/AlphaNecron, AlphaNecron
           plugin_activity_limit: 5
           plugin_activity_days: 0
           plugin_activity_filter: all
