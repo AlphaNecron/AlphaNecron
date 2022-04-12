@@ -1,6 +1,6 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 */2 * * *"}]
+  schedule: [{cron: "0 */4 * * *"}]
   workflow_dispatch:
   push: {branches: ["master", "main"]}
 jobs:
@@ -31,7 +31,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_activity: yes
-          plugin_activity_skipped: "AlphaNecron"
+          plugin_activity_skipped: "AlphaNecron/AlphaNecron"
           plugin_activity_limit: 5
           plugin_activity_days: 0
           plugin_activity_filter: all
