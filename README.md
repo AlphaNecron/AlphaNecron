@@ -6,7 +6,7 @@ const info = {
 	gender: 'male',
 	occupation: 'secondary school student',
 	location: 'nowhere',
-	interested_in: ['csharp', 'javascript', 'typescript', 'linux', 'golang', 'cpp', 'python', 'prisma', 'reactjs', 'nextjs', 'nodejs'],
+	interestedIn: ['csharp', 'javascript', 'typescript', 'linux', 'golang', 'cpp', 'python', 'prisma', 'reactjs', 'nextjs', 'nodejs'],
 	email: 'work@xwork.space'
 };
 ```
@@ -19,10 +19,7 @@ const info = {
 	
 ## Recent activities
 [![Activities](/metrics.activity.svg "GitHub activities")](#)
-
-## Streak 🔥
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlphaNecron&hide_border=true&background=23272A&ring=5865F2&fire=ED4245&dates=FEE75C&currStreakLabel=ED4245&sideNums=5865F2&currStreakNum=57F287&sideLabels=FFFFFF&stroke=FFFFFF)](#)
-
+	
 ## Trophies 🏆
 [![Trophies](https://github-profile-trophy.vercel.app/?username=AlphaNecron&margin-w=10&theme=discord&no-frame=true)](#)
 
@@ -81,5 +78,5 @@ const info = {
 [![TitlebarZ](https://github-readme-stats.vercel.app/api/pin/?username=AlphaNecron&repo=TitlebarZ&hide_border=true&title_color=5865f2&icon_color=57f287&text_color=ffffff&bg_color=23272a)](https://github.com/AlphaNecron/TitlebarZ)
 	
 ## Website 🌐
-[![Website](/metrics.website.svg "Website")](https://xwork.space)
+[![Website](/metrics.website.svg "Website")](https://goldor.dev)
 </details>
