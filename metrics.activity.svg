@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="411" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="358" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -19,19 +19,16 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">AlphaNecron/Void</span>
+                                        Commented on
+                                        <span class="issue">#162 db(prisma); seed after applying migrations</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">v1</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7b12a35</div>
-                                        <div class="message"><img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" /> hotfix(utils): fix prettyBytes not working with null</div>
-                                    </div>
+                                    <div>opened by AlphaNecron in <span class="repo">diced/zipline</span></div>
+                                    <div class="comment">Oh.</div>
                                 </div>
                             </section>
                         </div>
@@ -39,51 +36,16 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
+                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">AlphaNecron/Void</span>
+                                        Closed
+                                        <span class="issue">#37 Add default login info to README</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">v1</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#1656ca9</div>
-                                        <div class="message"><img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" /> perf(utils): better parseBytes function</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 4 commits in
-                                        <span class="repo">AlphaNecron/Void</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">v0</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#6f51326</div>
-                                        <div class="message">fix(api): allow uploading without private token</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bfa86e9</div>
-                                        <div class="message">fix(component): properly disabled isRequired for isAdmin</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f999155</div>
-                                        <div class="message">fix(component): is admin is accidentally set to required</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4a979e9</div>
-                                        <div class="message">fix(docker): add auto restart policy for postgres (#23)</div>
-                                    </div>
+                                    <div>opened by Quinten0508 in <span class="repo">AlphaNecron/Void</span></div>
                                 </div>
                             </section>
                         </div>
@@ -101,10 +63,10 @@
                                 <div class="details">
                                     <div>on branch <span class="code">v0</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a012391</div>
-                                        <div class="message">Revert "build(deps): bump minimist from 1.2.5 to 1.2.6 (#24)"
+                                        <div class="sha">#d909f74</div>
+                                        <div class="message">readme: add default credentials (#37)
 
-This reverts commit 8dae15c83205e493e77b6510e2394596ef9b3740.</div>
+Signed-off-by: Nguyen Thanh Quang &lt;57827456+AlphaNecron@users.noreply.github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -121,11 +83,30 @@ This reverts commit 8dae15c83205e493e77b6510e2394596ef9b3740.</div>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">v1</span></div>
+                                    <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#acc2ed5</div>
-                                        <div class="message"><img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" /> downgrade(node): lower nodejs version req to fermium (14)</div>
+                                        <div class="sha">#d909f74</div>
+                                        <div class="message">readme: add default credentials (#37)
+
+Signed-off-by: Nguyen Thanh Quang &lt;57827456+AlphaNecron@users.noreply.github.com&gt;</div>
                                     </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#162 db(prisma); seed after applying migrations</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by AlphaNecron in <span class="repo">diced/zipline</span></div>
+                                    <div class="comment">Oh, then generate after migrating only?</div>
                                 </div>
                             </section>
                         </div>
