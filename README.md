@@ -67,7 +67,6 @@ const info = {
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black "React")](https://reactjs.org)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white "Next.js")](https://nextjs.org)
 [![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white "NodeJS")](https://nodejs.org)
-[![Chakra](https://img.shields.io/badge/Chakra-319795?style=for-the-badge&logo=chakra%20ui&logoColor=white "Chakra")](https://chakra-ui.com)
 
 ### Database 🗄️
 [![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white "Prisma")](https://www.prisma.io)
