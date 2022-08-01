@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="351" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="312" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,39 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Starred
+                                        <span class="repo">Foso/Jetpack-Compose-Playground</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">AlphaNecron/RogXD</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">experimental</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#8898b37</div>
+                                        <div class="message">feat: rog x server</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -69,43 +102,6 @@
                                 </div>
                                 <div class="details">
                                     <div>opened by Jamior in <span class="repo">AlphaNecron/Void</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#41 When pulling v0 the default credentials are not working. IE. User not found</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by Jamior in <span class="repo">AlphaNecron/Void</span></div>
-                                    <div class="comment">Reopen if you are still encounter this issue.</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">AlphaNecron/Void</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">v1</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c4dc2a7</div>
-                                        <div class="message"><img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" /> upgrade(ui): upgrade to mantine 5</div>
-                                    </div>
                                 </div>
                             </section>
                         </div>
