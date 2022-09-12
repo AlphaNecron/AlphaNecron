@@ -7,7 +7,7 @@ const info = {
 	occupation: 'secondary school student',
 	location: 'nowhere',
 	interestedIn: ['csharp', 'javascript', 'typescript', 'linux', 'golang', 'cpp', 'python', 'prisma', 'reactjs', 'nextjs', 'nodejs'],
-	email: 'work@xwork.space'
+	email: 'void.dev@outlook.com'
 };
 ```
 
