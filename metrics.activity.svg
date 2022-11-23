@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="376" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="360" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,59 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#54 Default user not created with docker-compose</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by readdeo91 in <span class="repo">AlphaNecron/Void</span></div>
+                                    <div class="comment">Nice.</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Starred
+                                        <span class="repo">chakra-ui/chakra-ui</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#54 Default user not created with docker-compose</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by readdeo91 in <span class="repo">AlphaNecron/Void</span></div>
+                                    <div class="comment">
+                                        You can access the internal shell and exec either
+                                        <code>npx prisma db seed</code>
+                                        or
+                                        <code>yarn prisma db seed</code>
+                                        .
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -56,68 +109,6 @@
 
 bumped next to 13 and react 18 to utilize Suspense and ErrorBoundary
                                         </div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#53 user logged in shows as an admin</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by sicenul in <span class="repo">AlphaNecron/Void</span></div>
-                                    <div class="comment">
-                                        V0 is bugged I think, wait for a stabilized V1 and migrate
-                                        <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
-                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Closed
-                                        <span class="issue">#41974 Unable to run `next` with custom servers.</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened  in <span class="repo">vercel/next.js</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#41974 Unable to run `next` with custom servers.</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by AlphaNecron in <span class="repo">vercel/next.js</span></div>
-                                    <div class="comment">
-                                        Fixed by downgrading
-                                        <code>tsx</code>
-                                        to
-                                        <code>3.9.0</code>
-                                        ,
-                                        <code>esbuild&gt;=0.15</code>
-                                        is not backward-compatible therefore breaking everything.
                                     </div>
                                 </div>
                             </section>
