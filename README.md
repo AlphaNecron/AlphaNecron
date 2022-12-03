@@ -2,9 +2,9 @@
 const info = {
 	fullName: 'Nguyen Thanh Quang',
 	nickname: 'AlphaNecron',
-	age: 15,
+	age: 16,
 	gender: 'male',
-	occupation: 'secondary school student',
+	occupation: 'high school student',
 	location: 'nowhere',
 	interestedIn: ['csharp', 'javascript', 'typescript', 'linux', 'golang', 'cpp', 'python', 'prisma', 'reactjs', 'nextjs', 'nodejs'],
 	email: 'void.dev@outlook.com'
