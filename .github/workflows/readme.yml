@@ -17,6 +17,14 @@ jobs:
           plugin_pagespeed_detailed: yes
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
           plugin_pagespeed_url: https://goldor.dev
+      - name: Repositories
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.repositories.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_repositories: yes
+          plugin_repositories_featured: AlphaNecron/Void,AlphaNecron/TitlebarZ,AlphaNecron/lightdm-evo,ArcticOJ/avalanche,ArcticOJ/blizzard,ArcticOJ/igloo,ArcticOJ/iceberg,ArcticOJ/ArcticOJ,ArcticOJ/pengu
       - name: Stats
         uses: lowlighter/metrics@latest
         with:
@@ -24,6 +32,13 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, repositories
           plugin_lines: yes
+      - name: Detailed display
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_achievements: yes
       - name: Activities
         uses: lowlighter/metrics@latest
         with:
