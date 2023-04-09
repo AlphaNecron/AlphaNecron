@@ -58,7 +58,7 @@ jobs:
           filename: metrics.plugin.repositories.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          plugin_repositories: no
+          plugin_repositories: yes
           plugin_repositories_affiliations: ""
           plugin_repositories_featured: AlphaNecron/Void,AlphaNecron/TitlebarZ,AlphaNecron/lightdm-evo,ArcticOJ/avalanche,ArcticOJ/blizzard,ArcticOJ/igloo,ArcticOJ/iceberg,ArcticOJ/ArcticOJ,ArcticOJ/pengu
     
