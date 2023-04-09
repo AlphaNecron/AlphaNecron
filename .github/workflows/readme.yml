@@ -29,6 +29,7 @@ jobs:
         with:
           filename: metrics.plugin.wakatime.svg
           plugin_wakatime_days: 365
+          token: NOT_NEEDED
           base: ""
           plugin_wakatime: yes
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
