@@ -15,17 +15,16 @@ const info = {
   <summary>More</summary>
 	
 ## GitHub 🖥️
-[![Stats](/metrics.classic.svg "GitHub stats")](#)  
-	
+[![Stats](/metrics.classic.svg "GitHub stats")](#)
+
 ## Recent activities
 [![Activities](/metrics.activity.svg "GitHub activities")](#)
 
-## Trophies 🏆
-[![Trophies](https://github-profile-trophy.vercel.app/?username=AlphaNecron&margin-w=10&theme=discord&no-frame=true)](#)
-	
-## Wakatime
-[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=AlphaNecron&custom_title=Time%20spent%20on%20coding%20%E2%8F%B3&langs_count=8&hide=Git%20Config,%20XML,Markdown,CMake&hide_border=true&title_color=5865f2&icon_color=57f287&text_color=ffffff&bg_color=23272a)](#)
+## Achievements 🏆
+[![Achievements](/metrics.plugin.achievements.svg "Achievements")](#)
 
+## WakaTime
+[![WakaTime](/metrics.plugin.wakatime.svg "WakaTime")](#)
 ## Links 🔗
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white "Discord")](https://discord.com/users/534752817534074880)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white "Facebook")](https://facebook.com/AlphaNecron)
@@ -72,12 +71,8 @@ const info = {
 [![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white "Prisma")](https://www.prisma.io)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white "PostgreSQL")](https://www.postgresql.org)
 	
-## Effortful repositories 🌟
-[![Void](https://github-readme-stats.vercel.app/api/pin/?username=AlphaNecron&repo=Void&hide_border=true&title_color=5865f2&icon_color=57f287&text_color=ffffff&bg_color=23272a)](https://github.com/AlphaNecron/Void)
-[![GKutt](https://github-readme-stats.vercel.app/api/pin/?username=AlphaNecron&repo=GKutt&hide_border=true&title_color=5865f2&icon_color=57f287&text_color=ffffff&bg_color=23272a)](https://github.com/AlphaNecron/GKutt)
-[![lightdm-evo](https://github-readme-stats.vercel.app/api/pin/?username=AlphaNecron&repo=lightdm-evo&hide_border=true&title_color=5865f2&icon_color=57f287&text_color=ffffff&bg_color=23272a)](https://github.com/AlphaNecron/lightdm-evo)
-[![Kutt.NET](https://github-readme-stats.vercel.app/api/pin/?username=AlphaNecron&repo=KUTT.NET&hide_border=true&title_color=5865f2&icon_color=57f287&text_color=ffffff&bg_color=23272a)](https://github.com/AlphaNecron/Kutt.NET)
-[![TitlebarZ](https://github-readme-stats.vercel.app/api/pin/?username=AlphaNecron&repo=TitlebarZ&hide_border=true&title_color=5865f2&icon_color=57f287&text_color=ffffff&bg_color=23272a)](https://github.com/AlphaNecron/TitlebarZ)
+## Featured repositories 🌟
+[![Repositories](/metrics.plugin.repositories.svg "Repositories")](#)
 	
 ## Website 🌐
 [![Website](/metrics.website.svg "Website")](https://goldor.dev)
