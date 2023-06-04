@@ -16,7 +16,7 @@ jobs:
           plugin_pagespeed: yes
           plugin_pagespeed_detailed: yes
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
-          plugin_pagespeed_url: https://goldor.dev
+          plugin_pagespeed_url: https://xwork.space
       - name: Stats
         uses: lowlighter/metrics@latest
         with:
