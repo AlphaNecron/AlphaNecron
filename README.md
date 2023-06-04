@@ -75,7 +75,7 @@ const info = {
 [![Repositories](/metrics.plugin.repositories.svg "Repositories")](#)
 	
 ## Website 🌐
-[![Website](/metrics.website.svg "Website")](https://goldor.dev)
+[![Website](/metrics.website.svg "Website")](https://xwork.space)
 </details>
 
 <!-- Btw ily HYen. -->
