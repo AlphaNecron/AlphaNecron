@@ -21,6 +21,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.classic.svg
+          repositories_affiliations: owner, organization_member
           token: ${{ secrets.METRICS_TOKEN }}
           base_hireable: yes
           base_indepth: yes
