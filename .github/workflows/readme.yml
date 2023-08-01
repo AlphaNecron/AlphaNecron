@@ -22,7 +22,8 @@ jobs:
         with:
           filename: metrics.classic.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header, repositories
+          base_hireable: yes
+          base_indepth: yes
           plugin_lines: yes
       - name: WakaTime
         uses: lowlighter/metrics@latest
@@ -34,13 +35,6 @@ jobs:
           plugin_wakatime: yes
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_KEY }}
-      - name: Detailed display
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.achievements.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_achievements: yes
       - name: Activities
         uses: lowlighter/metrics@latest
         with:
