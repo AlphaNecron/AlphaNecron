@@ -21,7 +21,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.classic.svg
-          plugin_lines_delay: 30
+          plugin_lines_delay: 60
           repositories_affiliations: owner, organization_member
           token: ${{ secrets.METRICS_TOKEN }}
           base_hireable: yes
