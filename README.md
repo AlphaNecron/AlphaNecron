@@ -6,7 +6,7 @@ const info = {
 	gender: 'male',
 	occupation: 'high school student',
 	interests: ['csharp', 'js', 'ts', 'linux', 'go', 'cp', 'nextjs', 'rust', 'hackintosh'],
-	email: 'void.dev@outlook.com'
+	email: 'q@xwork.space'
 };
 ```
 
