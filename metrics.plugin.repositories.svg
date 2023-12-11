@@ -274,7 +274,7 @@
                                         <span>created Nov 29 2022</span>
                                     </div>
                                 </div>
-                                <div class="field description">Detachable isolated runner for Arctic.</div>
+                                <div class="field description">Standalone isolated runner for Arctic.</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -416,7 +416,7 @@
                                         <span>created Mar 28 2023</span>
                                     </div>
                                 </div>
-                                <div class="field description">Standalone Discord bot for Project Arctic</div>
+                                <div class="field description">Tree-shakable Discord bot for Project Arctic</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
