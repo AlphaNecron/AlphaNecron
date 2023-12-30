@@ -2,7 +2,7 @@
 const info = {
 	fullName: 'Nguyen Thanh Quang',
 	nickname: 'AlphaNecron',
-	age: 16,
+	age: 17,
 	gender: 'male',
 	occupation: 'high school student',
 	interests: ['csharp', 'js', 'ts', 'linux', 'go', 'cp', 'nextjs', 'rust', 'hackintosh'],
