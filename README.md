@@ -13,16 +13,13 @@ const info = {
 <details>
   <summary>More</summary>
 	
-## GitHub 🖥️
+## Statistics 🖥️
 [![Stats](/metrics.classic.svg "GitHub stats")](#)
 
-## Recent activities
-[![Activities](/metrics.activity.svg "GitHub activities")](#)
-
-## WakaTime
+## WakaTime ⏳
 [![WakaTime](/metrics.plugin.wakatime.svg "WakaTime")](#)
 
-## Featured repositories 🌟
+## Repositories 🌟
 [![Repositories](/metrics.plugin.repositories.svg "Repositories")](#)
 	
 ## Website 🌐
