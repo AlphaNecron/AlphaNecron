@@ -37,17 +37,6 @@ jobs:
           plugin_wakatime: yes
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_KEY }}
-      - name: Activities
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.activity.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_activity: yes
-          plugin_activity_skipped: AlphaNecron/AlphaNecron
-          plugin_activity_limit: 5
-          plugin_activity_days: 0
-          plugin_activity_filter: all
       - name: Repositories
         uses: lowlighter/metrics@latest
         with:
