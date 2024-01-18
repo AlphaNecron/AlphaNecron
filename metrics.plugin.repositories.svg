@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="672" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="639" class="">
     <defs>
         <style/>
     </defs>
@@ -180,7 +180,7 @@
                                         <span>created Nov 27 2022</span>
                                     </div>
                                 </div>
-                                <div class="field description">Front-end for Project Arctic</div>
+                                <div class="field description">WebUI implementation of Project Arctic.</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -227,7 +227,7 @@
                                         <span>created Nov 27 2022</span>
                                     </div>
                                 </div>
-                                <div class="field description">Back-end for Project Arctic</div>
+                                <div class="field description">Backend implementation of Project Arctic.</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -369,7 +369,8 @@
                                         <span>created Mar 04 2023</span>
                                     </div>
                                 </div>
-                                <div class="field description">Core of Project Arctic.</div>
+                                <div class="field description">
+                                </div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -416,7 +417,8 @@
                                         <span>created Mar 28 2023</span>
                                     </div>
                                 </div>
-                                <div class="field description">Tree-shakable Discord bot for Project Arctic</div>
+                                <div class="field description">
+                                </div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
