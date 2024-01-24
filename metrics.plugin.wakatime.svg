@@ -61,7 +61,7 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">avalanche</span>
-                                <div class="bar" style="width: 23.087999999999997%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 23.119999999999997%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">29%</span>
                             </div>
                             <div class="entry">
@@ -96,7 +96,7 @@
                             </div>
                             <div class="entry">
                                 <span class="name">TypeScript</span>
-                                <div class="bar" style="width: 25.28%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 25.272000000000002%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">32%</span>
                             </div>
                             <div class="entry">
@@ -106,7 +106,7 @@
                             </div>
                             <div class="entry">
                                 <span class="name">YAML</span>
-                                <div class="bar" style="width: 1.5439999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.56%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
                             <div class="entry">
