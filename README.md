@@ -1,13 +1,29 @@
-```javascript
-const info = {
-	fullName: 'Nguyen Thanh Quang',
-	nickname: 'AlphaNecron',
-	age: 17,
-	gender: 'male',
-	occupation: 'high school student',
-	interests: ['csharp', 'js', 'ts', 'linux', 'go', 'cp', 'nextjs', 'rust', 'hackintosh'],
-	email: 'q@xwork.space'
-};
+```rust
+impl Me {
+	pub(crate) fn info() -> Self {
+		Self {
+			full_name: "Nguyen Thanh Quang",
+			usernames: vec!["alphanecron", "necronthedev"],
+			age: 17,
+			pronouns: "he/him",
+			works: vec!["high schooler", "amateur full-stack developer", "tech tinkerer", "novice devops engineer"],
+			location: "Ha Tinh / Vietnam",
+			interests: HashMap::from([
+		        ("frameworks", vec!["react", "nextjs", "dotnet"]),
+		        ("languages", vec!["typescript", "golang", "rust", "csharp", "cpp"]),
+		        ("technologies", vec!["redis", "dragonfly", "elastic search", "postgresql", "docker", "drpc", "jetpack compose"]),
+		        ("misc", vec!["hackintosh", "competitive programming", "linux ricing", "crypto?"])
+		    ]),
+		    contacts: HashMap::from([
+		    	("email", "q@xwork.space"),
+		    	("facebook", "AlphaNecron"),
+		    	("discord", "alphanecron"),
+		    	("telegram", "AlphaNecron"),
+		    	("imessage", "necron.dev@icloud.com")
+		    ])
+		}
+	}
+}
 ```
 
 <details>
