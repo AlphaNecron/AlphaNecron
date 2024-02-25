@@ -14,13 +14,12 @@ impl Me {
 			],
 			location: "Ha Tinh / Vietnam",
 			interests: HashMap::from([
-			        ("frameworks", vec!["react", "nextjs", "dotnet"]),
-			        ("languages", vec!["typescript", "golang", "rust", "csharp", "cpp"]),
+			        ("frameworks", vec!["react", "nextjs", "dotnet", "jetpack compose"]),
+			        ("languages", vec!["typescript", "golang", "rust", "csharp", "cpp", "kotlin"]),
 			        ("technologies", vec![
 					"redis", "dragonfly",
 					"elastic search", "postgresql",
-					"docker", "drpc",
-					"jetpack compose"
+					"docker", "drpc"
 				]),
 			        ("misc", vec![
 					"hackintosh",
