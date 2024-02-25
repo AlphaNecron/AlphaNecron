@@ -6,21 +6,36 @@ impl Me {
 			usernames: vec!["alphanecron", "necronthedev"],
 			age: 17,
 			pronouns: "he/him",
-			works: vec!["high schooler", "amateur full-stack developer", "tech tinkerer", "novice devops engineer"],
+			works: vec![
+				"high schooler",
+				"amateur full-stack developer",
+				"tech tinkerer",
+				"novice devops engineer"
+			],
 			location: "Ha Tinh / Vietnam",
 			interests: HashMap::from([
-		        ("frameworks", vec!["react", "nextjs", "dotnet"]),
-		        ("languages", vec!["typescript", "golang", "rust", "csharp", "cpp"]),
-		        ("technologies", vec!["redis", "dragonfly", "elastic search", "postgresql", "docker", "drpc", "jetpack compose"]),
-		        ("misc", vec!["hackintosh", "competitive programming", "linux ricing", "crypto?"])
-		    ]),
-		    contacts: HashMap::from([
-		    	("email", "q@xwork.space"),
-		    	("facebook", "AlphaNecron"),
-		    	("discord", "alphanecron"),
-		    	("telegram", "AlphaNecron"),
-		    	("imessage", "necron.dev@icloud.com")
-		    ])
+			        ("frameworks", vec!["react", "nextjs", "dotnet"]),
+			        ("languages", vec!["typescript", "golang", "rust", "csharp", "cpp"]),
+			        ("technologies", vec![
+					"redis", "dragonfly",
+					"elastic search", "postgresql",
+					"docker", "drpc",
+					"jetpack compose"
+				]),
+			        ("misc", vec![
+					"hackintosh",
+					"competitive programming",
+					"linux ricing",
+					"crypto?"
+				])
+		    	]),
+		    	contacts: HashMap::from([
+			    	("email", "q@xwork.space"),
+			    	("facebook", "AlphaNecron"),
+			    	("discord", "alphanecron"),
+			    	("telegram", "AlphaNecron"),
+				("imessage", "necron.dev@icloud.com")
+		    	])
 		}
 	}
 }
