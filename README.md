@@ -66,7 +66,7 @@ Me (
 ## Statistics 💹
 [![Stats](/metrics.classic.svg "GitHub stats")](#)
 
-## WakaTime :
+## WakaTime ⏳
 [![WakaTime](/metrics.plugin.wakatime.svg "WakaTime")](#)
 
 ## Repositories 🌟
