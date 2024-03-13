@@ -25,44 +25,6 @@ Me (
 <details>
   <summary>More</summary>
 	
-## Devices 📱
-	
- ```rust,ignore
-{
-	"budget desktop": (
-	    cpu: "i3 10100F 4/8",
-	    ram: "16GB DDR4 2666MHz",
-	    storage: ["512GB Lexar SATA3 SSD", "500GB Kioxia Plus G2 NVMe"],
-	    gpu: "HIS RX570 4GB"
-	),
-	"budget homelab": (
-	    model: "HP ProDesk 405 G6"
-	    cpu: "R7 4700GE 8/16",
-	    ram: "16GB DDR4 3200MHz",
-	    storage: ["256GB NVMe", "500GB SATA HDD"]
-	),
-	"laptop": (
-	    model "ROG Zephyrus G14 GA401QH"
-	    cpu: "R7 5800HS 8/16",
-	    ram: "24GB DDR4 3200MHz",
-	    storage: ["512GB Intel 670p NVMe"],
-	    gpu: "NVIDIA GTX 1650 Mobile"
-	),
-	"main phone": (
-	    model: "iPhone XS",
-	    cpu: "Apple Bionic A12"
-	    ram: "4GB"
-	    storage: ["512GB NVMe"]
-	),
-	"auxiliary phone": {
-	    model: "Redmi K40S",
-	    cpu: "Snapdragon 870",
-	    ram: "12GB",
-	    storage: ["256GB UFS 3.1"]
-	}
-}
- ```
-	
 ## Statistics 💹
 [![Stats](/metrics.classic.svg "GitHub stats")](#)
 
