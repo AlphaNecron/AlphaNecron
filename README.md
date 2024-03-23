@@ -10,14 +10,14 @@ Me (
         "frameworks": ["react", "nextjs", "dotnet", "jetpack compose"],
         "languages": ["typescript", "golang", "rust", "csharp", "cpp", "kotlin", "swift?", "python?"],
         "technologies": ["docker", "rpc", "redis", "memcached", "dragonfly", "postgresql"],
-        "misc": ["hackintosh", "competitive programming", "linux ricing"]
+        "misc": ["system engineering", "hackintosh", "competitive programming", "linux ricing"]
     },
     contacts: {
         "email": "*@xwork.space" // replace * with whatever you want
         "facebook": "AlphaNecron",
         "discord": "alphanecron",
         "telegram": "AlphaNecron",
-        "imessage": "necron.dev@icloud.com"
+        "imessage": "void.dev@outlook.com"
     }
 )
 ```
