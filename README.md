@@ -1,14 +1,13 @@
 ```rust,ignore
 Me (
     full_name: "Nguyen Thanh Quang",
-    usernames: ["alphanecron", "necron", "necronthedev"],
-    years_since_birth: 17,
+    aliases: ["alphanecron", "necron", "necronthedev"],
     pronouns: "he/him",
-    works: ["high schooler", "tech tinkerer", "amateur semifull-stack developer", "novice devops engineer"],
+    works: ["high schooler", "tech tinkerer", "amateur semifull-stack developer"],
     location: "Hatinh, Vietnam",
     interests: {
-        "frameworks": ["react", "nextjs", "dotnet", "jetpack compose"],
-        "languages": ["typescript", "golang", "rust", "csharp", "cpp", "kotlin", "swift?", "python?"],
+        "frameworks": ["solidjs", "reactjs", "nextjs", "dotnet", "jetpack compose"],
+        "languages": ["typescript", "golang", "rust", "csharp", "cpp", "kotlin"],
         "technologies": ["docker", "rpc", "redis", "memcached", "dragonfly", "postgresql"],
         "misc": ["system engineering", "hackintosh", "competitive programming", "linux ricing"]
     },
