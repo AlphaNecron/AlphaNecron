@@ -11,6 +11,13 @@ Me (
         "technologies": ["docker", "rpc", "redis", "memcached", "dragonfly", "postgresql"],
         "misc": ["system engineering", "hackintosh", "competitive programming", "linux ricing"]
     },
+    igns: { // quitted most of 'em lol
+        "aov": "Voidstorm",
+        "lol": "AlphaNecron#Dev",
+        "minecraft": "Bitw1se" // Wynncraft and Hypixel, formerly `OishiSnackTomCay`
+        "sf3/sfa": "AlphaNecron",
+        "naraka": "AlphaNecron"
+    },
     contacts: {
         "email": "*@xwork.space" // replace * with whatever you want
         "facebook": "AlphaNecron",
