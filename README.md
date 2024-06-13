@@ -19,7 +19,7 @@ Me (
         "naraka": "AlphaNecron"
     },
     contacts: {
-        "email": "*@xwork.space" // replace * with whatever you want
+        "email": ["*@xwork.space", "*@necron.dev"] // replace * with whatever you want
         "facebook": "AlphaNecron",
         "discord": "alphanecron",
         "telegram": "AlphaNecron",
