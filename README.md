@@ -1,4 +1,4 @@
-```rust,ignore
+```rust
 Me (
     aliases: ["alphanecron", "necron", "necronthedev"],
     pronouns: "he/him",
@@ -11,7 +11,9 @@ Me (
         "misc": ["system engineering", "hackintosh", "competitive programming", "linux ricing"]
     },
     contacts: {
-        "email": ["gh@necron.dev"]
+        "email": ["gh@necron.dev", "necron@thptchuyenhatinh.edu.vn"],
+	"facebook": ["@AlphaNecron"],
+	"instagram": ["@necronowo"]
     }
 )
 ```
