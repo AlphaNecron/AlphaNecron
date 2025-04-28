@@ -10,6 +10,7 @@ Me (
         "technologies": ["docker", "rpc", "redis", "memcached", "dragonfly", "postgresql"],
         "misc": ["system engineering", "hackintosh", "competitive programming", "linux ricing"]
     },
+    goals: ["senior swe", "sysadmin", "CN8-UET", "co duoc e (impossible)"],
     contacts: {
         "email": ["gh@necron.dev", "necron@thptchuyenhatinh.edu.vn"],
 	"facebook": ["@AlphaNecron"],
