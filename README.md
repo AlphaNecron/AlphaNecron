@@ -6,7 +6,7 @@ Me (
         "high schooler",
         "tech tinkerer",
         "amateur semifull-stack developer",
-        "swe @ AlgoMaster LLC",
+        "swe @ AlgoMaster Ltd",
         "head o' dev dept @ CHTCoder"
     ],
     location: "127.0.0.1",
@@ -34,8 +34,11 @@ Me (
 ## WakaTime ⏳
 [![WakaTime](/metrics.plugin.wakatime.svg "WakaTime")](#)
 
+<!--
+t thich m lam Quyt a hihi
 ## Repositories 🌟
 [![Repositories](/metrics.plugin.repositories.svg "Repositories")](#)
+-->
 	
 ## Website 🌐
 [![Website](/metrics.website.svg "Website")](https://necron.dev)
