@@ -6,7 +6,6 @@ Me (
         "high schooler",
         "tech tinkerer",
         "amateur semifull-stack developer",
-        "dev @ AlgoMaster Ltd",
         "head of dev dept @ CHTCoder"
     ],
     location: "127.0.0.1",
