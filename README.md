@@ -6,14 +6,15 @@ Me (
         "high schooler",
         "tech tinkerer",
         "amateur semifull-stack developer",
+	"dev @ AlgoMaster Ltd",
         "head of dev dept @ CHTCoder"
     ],
     location: "127.0.0.1",
     interests: {
-        "frameworks": ["solidjs", "reactjs", "nextjs", "dotnet", "jetpack compose"],
+        "frameworks": ["solidjs", "reactjs", "nextjs", "dotnet", "jetpack compose", "huma/echo"],
         "languages": ["typescript", "golang", "rust", "csharp", "cpp", "kotlin"],
-        "technologies": ["docker", "rpc", "redis", "memcached", "dragonfly", "postgresql", "graphql"],
-        "misc": ["system engineering", "hackintosh", "competitive programming", "linux ricing", "ctf"]
+        "technologies": ["docker", "rpc", "dragonfly", "postgresql", "graphql"],
+        "misc": ["system engineering", "hackintosh", "competitive programming", "linux ricing", "ctf", "system design"]
     },
     goals: ["senior swe", "sysadmin", "CN8-UET", "co duoc e (impossible)"],
     contacts: {
